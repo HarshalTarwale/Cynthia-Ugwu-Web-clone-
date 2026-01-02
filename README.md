@@ -4,7 +4,7 @@ A modern recreation of a premium product designer portfolio website, built with 
 
 ## Screenshots
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://github.com/HarshalTarwale/Cynthia-Ugwu-Web-clone-/blob/main/product-designer-ss.png)
 
 ## Tech Stack
 
@@ -17,13 +17,9 @@ A modern recreation of a premium product designer portfolio website, built with 
 ## Features
 
 * **Smooth Scroll Implementation:**
-  
 * **Advanced CSS Animations:**
-
 * **Interactive Components:**
-
 * **Utility-First CSS Architecture:**
-
 * **Custom Typography:**
  
 ## Sections
